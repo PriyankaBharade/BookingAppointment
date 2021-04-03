@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "279169418170",
+    "firebase_url": "https://fir-7aaa0.firebaseio.com",
+    "project_id": "fir-7aaa0",
+    "storage_bucket": "fir-7aaa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279169418170:android:2bb1a530ecf2cf6699d383",
+        "android_client_info": {
+          "package_name": "com.bookappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279169418170-eac29hrjkf2p6pqdk62ufdgollitnlno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0BlJqN2cEOcLIbS9f03h_WTuF3xMzMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279169418170-eac29hrjkf2p6pqdk62ufdgollitnlno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
